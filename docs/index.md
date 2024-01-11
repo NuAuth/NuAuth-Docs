@@ -18,7 +18,7 @@ If you're here because you've already gotten access to our dashboard and want to
 
 ### Connect with Us
 
-For inquiries, support, or collaboration opportunities, please reach out to us at [support@nuauth.xyz](mailto:support@nuauth.xyz?subject=Support Request). Join our [discord]() to engage with other developers and share your experiences with us!
+For inquiries, support, or collaboration opportunities, please reach out to us at [support@nuauth.xyz](mailto:support@nuauth.xyz?subject=Support Request). Join our [discord](https://discord.com/invite/Aeu7wj6cWa) to engage with other developers and share your experiences with us!
 
 Thank you for choosing NuAuth. Together, let's safeguard your creations and unlock your potential in the digital realm.
 
