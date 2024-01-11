@@ -68,4 +68,4 @@ Analysis prevention prevents your executable from being analyzed with various kn
 
 ### Developer Ease-of-Use
 
-We provide a feature called "Developer Mode" which whitelists a specified IP address and hardware ID from certain essential security options such as integrity checks, debug prevention, and analysis prevention. This option can be enabled to allow developers of your application to actually work on your program without the DRM getting in the way of the development process.
+We provide a feature called "Developer Mode" which whitelists a specified IP address and hardware ID from certain essential security options such as integrity checks, debug prevention, and analysis prevention. This option can be enabled to allow developers of your application to test and debug your program without the DRM getting in the way of the development process.
