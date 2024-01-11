@@ -1,7 +1,26 @@
-<h1><img src="img/favicon.ico" width="auto" height="40px"> Documentation <small>for NuAuth</small></h1>
+# Welcome to NuAuth DRM Solutions
 
-Welcome to the docs!
+<hr>
 
+### About NuAuth
+
+NuAuth DRM Solutions, also known as NuAuth, is dedicated to supporting developers—both small-time and professional level—by providing cutting-edge security. Our mission is to empower developers to secure their digital creations and thrive in the world of content distribution.
+
+### Our Commitment
+
+At NuAuth, we strive to be a beacon of support and innovation for the average small-time developer. We understand the challenges you face and are here to offer DRM solutions tailored to your needs. Our team is committed to assisting you in achieving your goals and maximizing profit through reliable and robust DRM solutions.
+
+### Getting Started
+
+Visit our [website](https://nuauth.xyz) to learn more about NuAuth DRM Solutions, explore our offerings, and start securing your digital creations today. Feel free to delve into our documentation and community resources found on our website to kickstart your DRM journey with NuAuth.
+
+### Connect with Us
+
+For inquiries, support, or collaboration opportunities, please reach out to us at [support@nuauth.xyz](mailto:support@nuauth.xyz?subject=Support Request). Join our [discord]() to engage with other developers and share your experiences with us!
+
+Thank you for choosing NuAuth. Together, let's safeguard your creations and unlock your potential in the digital realm.
+
+<!-- <h1><img src="img/favicon.ico" width="auto" height="40px"> Documentation <small>for NuAuth</small></h1> -->
 <!-- Cinder is a clean, responsive theme for static documentation sites that are generated with [MkDocs](https://github.com/mkdocs/mkdocs). It's built on the [Bootstrap 3 framework](https://getbootstrap.com/docs/3.3/) and includes pre-packaged:
 
 <small><i class="fas fa-highlighter" style="color:#FA023C"></i> **[highlight.js v9.18.0](https://highlightjs.org/) syntax highlighting with support for [185 languages (over 30 by default) and over 90 styles](https://highlightjs.org/static/demo/)**</small></br>
