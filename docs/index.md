@@ -14,6 +14,8 @@ At NuAuth, we strive to be a beacon of support and innovation for the average sm
 
 Visit our [website](https://nuauth.xyz) to learn more about NuAuth DRM Solutions, explore our offerings, and start securing your digital creations today. Feel free to delve into our documentation and community resources found on our website to kickstart your DRM journey with NuAuth.
 
+If you're here because you've already gotten access to our dashboard and want to start using NuAuth as your DRM provider, head over to our [Getting Started](./getting-started) page.
+
 ### Connect with Us
 
 For inquiries, support, or collaboration opportunities, please reach out to us at [support@nuauth.xyz](mailto:support@nuauth.xyz?subject=Support Request). Join our [discord]() to engage with other developers and share your experiences with us!
