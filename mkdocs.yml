@@ -1,0 +1,18 @@
+site_name: NuAuth Documentation
+site_url: https://docs.nuauth.xyz
+site_description: "All the necessary documentation for our public API & client libraries."
+copyright: "© 2024 <a href=\"https://nuauth.xyz\">NuAuth DRM Solutions, LLC</a>"
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme: github
+  highlightjs: true
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
